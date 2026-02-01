@@ -120,7 +120,7 @@ L’objectif principal est de comprendre le **comportement des utilisateurs**, d
 1. Cloner le dépôt
 
 ```bash
-git clone <url_du_repo>
+git clone (https://github.com/Rimiscky/Data_EXPLORATION.git)
 ```
 
 2. Installer les dépendances
